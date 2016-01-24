@@ -1,7 +1,7 @@
 ---
 title: "Analyzing FitBit Data"
-author: "Daniel Maurath"
-date: "July, 2014"
+author: "Thinh Nguyen"
+date: "January, 2016"
 ---
 ###About
 This was the first project for the **Reproducible Research** course in Coursera's Data Science specialization track. The purpose of the project was to answer a series of questions using data collected from a [FitBit](http://en.wikipedia.org/wiki/Fitbit).

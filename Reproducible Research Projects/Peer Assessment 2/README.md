@@ -1,6 +1,6 @@
 # Health and Economic Implications of Storms
-Daniel Maurath  
-July, 2014  
+Thinh Nguyen 
+January, 2016  
 
 
 #### About
